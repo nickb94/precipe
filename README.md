@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+
+This WebApp fetches several recipes from API facility on edamam.com, against a food related search query from user. User enters an ingredient that is available, this app suggests several related recipes. 
+
+### Technologies Used
+
+- HTML5,CSS3
+- ReactJS
 
 ## Available Scripts
 
